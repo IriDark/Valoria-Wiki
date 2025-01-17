@@ -15,9 +15,16 @@ const sidebars = {
           },
           {
             type: 'category',
-            label: 'Bosses',
+            label: 'Entities',
             items: [
-           'Overworld/Pre-nether/Bosses/Necromancer',
+           'Overworld/Pre-nether/Entity Stats',
+            {
+               type: 'category',
+               label: 'Bossses',
+               items: [
+                    'Overworld/Pre-nether/Bosses/Necromancer',
+               ],
+            }
            ],
          },
       ],

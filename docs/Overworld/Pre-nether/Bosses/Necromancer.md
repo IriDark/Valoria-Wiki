@@ -25,13 +25,14 @@ Stats: 250 ❤️ 5 🗡️ (Melee)
 
 | Item                   | Chance | Count |
 |------------------------|--------|-------|
-| The Fallen Trim        | 1.43%  | 1     |
-| Arcane Trim            | 1.43%  | 1     |
-| Summon Book (Undead)   | 7.14%  | 1     |
+| Necromancer Music Disc | 1.41%  | 1     |
+| The Fallen Trim        | 1.41%  | 1     |
+| Arcane Trim            | 1.41%  | 1     |
+| Summon Book (Undead)   | 7.04%  | 1     |
 | Rune of curses         | 4.29%  | 1     |
-| Enchanted Golden Apple | 21.43% | 1     |
+| Enchanted Golden Apple | 21.13% | 1     |
 | Ethereal Shard         | 100%   | 2-5   |
-| Ethereal Sword         | 14.29% | 1     |
-| Ethereal Spear         | 14.29% | 1     |
-| Ethereal Pickaxe       | 14.29% | 1     |
-| Ethereal Axe           | 14.29% | 1     |
+| Ethereal Sword         | 14.08% | 1     |
+| Ethereal Spear         | 14.08% | 1     |
+| Ethereal Pickaxe       | 14.08% | 1     |
+| Ethereal Axe           | 14.08% | 1     |

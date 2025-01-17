@@ -1,8 +1,6 @@
 # Cobalt
 
-![cobalt_ore.png](../../../static/img/assets/cobalt_ore.png)
-
-![deepslate_cobalt_ore.png](../../../static/img/assets/deepslate_cobalt_ore.png)
+![cobalt_ore.png](../../../static/img/assets/cobalt_ore.png) ![deepslate_cobalt_ore.png](../../../static/img/assets/deepslate_cobalt_ore.png)
 
 Cobalt **ore** is a [mineral](https://minecraft.wiki/w/Mineral) block that drops raw cobalt when mined.
 
